@@ -1,5 +1,5 @@
 # Download the helper library from https://www.twilio.com/docs/python/install
-# STEP 1. Must use virtual env for this. run- source getwethr_env/bin/activate
+# STEP 1. Must use virtual env for this. run->>> source getwethr_env/bin/activate
 import os
 from twilio.rest import Client
 
